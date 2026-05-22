@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.NadhWallet" parent="android:Theme.Material.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="android:statusBarColor">#4F46E5</item> <!-- Indigo-600 status bar -->
+        <item name="android:navigationBarColor">#0F172A</item> <!-- Dark navigation bar -->
+    </style>
+</resources>

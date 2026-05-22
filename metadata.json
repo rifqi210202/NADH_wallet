@@ -1,0 +1,6 @@
+{
+  "name": "eWallet Developer Portal",
+  "description": "Interactive Android eWallet simulator, PostgreSQL schema constructor, and Kotlin/Node.js API project generator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
